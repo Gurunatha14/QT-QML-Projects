@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ButtonMy.qml</file>
+        <file>samegame.js</file>
+        <file>Dialog.qml</file>
+        <file>Resources/background.png</file>
+        <file>Resources/redball.png</file>
+        <file>Resources/blueball.png</file>
+        <file>Resources/greenball.png</file>
+        <file>BoomBlock.qml</file>
+        <file>Block.qml</file>
+    </qresource>
+</RCC>
